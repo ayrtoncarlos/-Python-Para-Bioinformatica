@@ -1,0 +1,4 @@
+
+Python para BioInformática #6: Encontrando Segmentos de DNA( Motifs) em Cadeias de DNA:
+
+https://www.youtube.com/watch?v=BXTznhvsDuM
