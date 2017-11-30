@@ -1,0 +1,4 @@
+
+Python Para BioInformática #11: Achando a sequencia de DNA consensus e matriz profile:
+
+https://www.youtube.com/watch?v=0nT8Zp1mZy0
