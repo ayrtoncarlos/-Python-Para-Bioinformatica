@@ -1,0 +1,4 @@
+
+Python para Bioinformática #4: Computando o GC-Content:
+
+https://www.youtube.com/watch?v=ZFrsaWfdXV4
