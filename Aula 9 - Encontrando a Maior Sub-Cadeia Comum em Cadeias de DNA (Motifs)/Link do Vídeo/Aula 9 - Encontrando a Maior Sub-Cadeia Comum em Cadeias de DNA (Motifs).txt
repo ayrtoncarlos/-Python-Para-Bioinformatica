@@ -1,0 +1,4 @@
+
+Python Para Bioinformática #9: Encontrando a maior sub-cadeia em comum em cadeias de DNA (Motifs):
+
+https://www.youtube.com/watch?v=2badLdGq0NE
